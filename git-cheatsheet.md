@@ -1,5 +1,4 @@
 # Git Command Cheat Sheet
-
 | Task | Command | Purpose |
 |---|---|---|
 | Check Git version | `git --version` | Show the installed Git version. |
